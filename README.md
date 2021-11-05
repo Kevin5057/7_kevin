@@ -27,7 +27,7 @@ im from Indonesia, bandung. i’ve work as bot developer for 6 month and work in
 | Name | Description |
 | ----- | ---------- |
 | [`K V N Bot`] | My personal bot `Offline` |
-| [`K V N Music`] | A music bot using [`Socket.io`] |
+| [`K V N Music`] | A music bot using [`Replit`] |
 | [`Repository's`] | Other projects on my repositories |
 
 # Links ✅
