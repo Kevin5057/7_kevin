@@ -6,7 +6,7 @@
 - Student
 
 # About me 📌
-im from Indonesia, bandung. i’ve work as bot developer for 6 month and work in [`Vins Development`] as Staff Team. my full name is Kevin Dharma, 13 years old.
+Im from Indonesia, Bandung. i’ve work as bot developer for 6 month and work in [`Vins Development`] as Staff Team. my full name is Kevin Dharma, 13 years old.
 - start coding in `2021`
 - my first program using [`JavaScript`]
 
