@@ -6,7 +6,7 @@
 - Student
 
 # About me 📌
-im from Indonesia, bandung. i’ve work as bot developer for 1 year and work in Bellshade as Web Team and HTML-CSS Team. my full name is Vincent Devon Saerang, 14 years old
+im from Indonesia, bandung. i’ve work as bot developer for 6 month and work in [`Vins Development`] as Staff Team. my full name is Kevin Dharma, 13 years old.
 - start coding in `2021`
 - my first program using [`JavaScript`]
 
@@ -63,3 +63,4 @@ im from Indonesia, bandung. i’ve work as bot developer for 1 year and work in 
 [`K V N Bot`]:            https://github.com/Bee3-Team/Bee3
 [`K V N Music`]:          https://kvnteam7.wixsite.com/kvnmusic
 [`Repository's`]:         https://github.com/Kevin5057?tab=repositories
+[`Vins Development`]:     https://github.com/Vins2106
