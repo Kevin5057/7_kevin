@@ -10,12 +10,18 @@ im from Indonesia, bandung. i’ve work as bot developer for 6 month and work in
 - start coding in `2021`
 - my first program using [`JavaScript`]
 
-# Skills
-| Skills |
+# Coding Skills & Other Skills 🔧
+| Coding Skills |
 | ----- |
 | [`JavaScript`]  |
 | [`MongoDB`]     |
 | [`Node.js`]     |
+
+| Other Skills |
+| ----- |
+| `Coding` |
+| `Make Website` |
+| `Make Youtube Video` |
 
 # Projects 🎬
 | Name | Description |
