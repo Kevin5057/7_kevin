@@ -1,6 +1,7 @@
 <img src="https://komarev.com/ghpvc/?username=Kevin5057" alt="profile views" align="center" loading="lazy" /> [`Use this template`]
+[![Discord](https://discordapp.com/api/guilds/889330423623204905/embed.png)](https://discord.gg/wjWJwJB)
 
-# I'm Kevin 🪐
+# Hi! I'm Kevin 🪐
 - Website Developer
 - Bots Developer
 - Student
