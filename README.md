@@ -3,7 +3,11 @@
 [![Discord](https://img.shields.io/discord/889330423623204905?color=5865F2&logo=discord&logoColor=white)](https://discord.gg/wjWJwJB)
 
 
-
+<br>
+    <a href="https://discord.com/users/561170896480501790">
+        <img src="https://discord.c99.nl/widget/theme-3/561170896480501790.png" alt="Devin#3583:discord-profile"/>
+    </a>
+</div>
 
 
 # Hi! I'm Kevin 🪐
