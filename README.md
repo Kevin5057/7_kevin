@@ -5,7 +5,7 @@
 
 <br>
     <a href="https://discord.com/users/561170896480501790">
-        <img src="https://discord.c99.nl/widget/theme-3/561170896480501790.png" alt="Devin#3583:discord-profile"/>
+        <img src="https://discord.c99.nl/widget/theme-3/561170896480501790.png" alt="! Kepinz#5057:discord-profile"/>
     </a>
 </div>
 
