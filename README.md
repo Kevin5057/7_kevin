@@ -2,14 +2,6 @@
 
 [![Discord](https://img.shields.io/discord/889330423623204905?color=5865F2&logo=discord&logoColor=white)](https://discord.gg/wjWJwJB)
 
-
-<br>
-    <a href="https://discord.com/users/889327962577580073">
-        <img src="https://discord.c99.nl/widget/theme-3/889327962577580073.png" alt="K E V I N#3621:discord-profile"/>
-    </a>
-</div>
-
-
 # Hi! I'm Kevin 🪐
 - Website Developer
 - Bots Developer
@@ -19,6 +11,12 @@
 Im from Indonesia, Bandung. i’ve work as bot developer for 6 month and work in [`Vins Development`] as Staff Team. my full name is Kevin Dharma, 13 years old.
 - start coding in `2021`
 - my first program using [`JavaScript`]
+
+<br>
+    <a href="https://discord.com/users/889327962577580073">
+        <img src="https://discord.c99.nl/widget/theme-3/889327962577580073.png" alt="K E V I N#3621:discord-profile"/>
+    </a>
+</div>
 
 # Coding Skills & Other Skills 🔧
 | Coding Skills |
