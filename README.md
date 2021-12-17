@@ -25,9 +25,9 @@ Im from Indonesia, Bandung. i’ve work as bot developer for 6 month and work in
 
 | Other Skills |
 | ----- |
-| `Coding` |
-| `Make Website` |
+| `Play with Cats` |
 | `Make Youtube Video` |
+| `Making Website` |
 | `Drumming band?` |
 
 # Projects 🎬
