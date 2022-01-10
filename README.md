@@ -1,6 +1,6 @@
 <img src="https://komarev.com/ghpvc/?username=Kevin5057" alt="profile views" align="center" loading="lazy" /> [`Use this template`]
 
-[![Discord](https://img.shields.io/discord/889330423623204905?color=5865F2&logo=discord&logoColor=white)](https://discord.gg/wjWJwJB)
+[![Discord](https://img.shields.io/discord/745942299992784926?color=5865F2&logo=discord&logoColor=white)](https://discord.gg/wjWJwJB)
 
 # Hi! I'm Kevin 🪐
 - Website Developer
