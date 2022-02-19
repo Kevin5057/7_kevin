@@ -25,7 +25,7 @@ Im from Indonesia, Bandung. i’ve work as bot developer for 4 month and work in
 
 | Other Skills |
 | ----- |
-| `Play with Cats` |
+| `Play Online Games` |
 | `Make Youtube Video` |
 | `Making Website` |
 | `Drumming band?` |
@@ -71,9 +71,9 @@ Im from Indonesia, Bandung. i’ve work as bot developer for 4 month and work in
 [`Website`]:              https://kvnteam7.wixsite.com/kvngamers
 [`Replit`]:               https://replit.com
 [`Instagram`]:            https://www.instagram.com/kvngamers7/
-[`Twitter`]:              https://twitter.com/kvngamers7
+[`Twitter`]:              https://twitter.com/kevindev7
 [`kvnteam7@gmail.com`]:   kvnteam7@gmail.com
-[`K V N Bot`]:            https://github.com/Bee3-Team/Bee3
+[`K V N Bot`]:            https://google.com/
 [`K V N Music`]:          https://kvnteam7.wixsite.com/kvnmusic
 [`Repository's`]:         https://github.com/Kevin5057?tab=repositories
 [`Vins Development`]:     https://github.com/Vins2106
