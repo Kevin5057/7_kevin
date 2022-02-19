@@ -75,6 +75,6 @@ Im from Indonesia, Bandung. i’ve work as bot developer for 4 month and work in
 [`kvnteam7@gmail.com`]:   kvnteam7@gmail.com
 [`K V N Bot`]:            https://google.com/
 [`K V N Music`]:          https://kvnteam7.wixsite.com/kvnmusic
-[`Repository's`]:         https://github.com/Kevin5057?tab=repositories
+[`Repository's`]:         https://github.com/kevindev7?tab=repositories
 [`Vins Development`]:     https://github.com/Vins2106
 [`Use this template`]:    https://github.com/Kevin5057/Kevin5057/generate
