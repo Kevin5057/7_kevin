@@ -28,7 +28,7 @@ Im from Indonesia, Bandung. i’ve work as bot developer for 6 month and Develop
 | `Play Online Games` |
 | `Make Youtube Video` |
 | `Making Website` |
-| `Drumming band?` |
+| `Video Editing` |
 
 # Projects 🎬
 | Name | Description |
