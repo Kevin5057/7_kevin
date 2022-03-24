@@ -49,10 +49,10 @@ Im from Indonesia, Bandung. i’ve work as bot developer for 6 month and Develop
 <table>
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=Kevin5057&text_color=000000&title_color=000000&show_icons=true&bg_color=20,00d5ff,00ff77&hide_title=true&count_private=true" />
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=kevindev7&text_color=000000&title_color=000000&show_icons=true&bg_color=20,00d5ff,00ff77&hide_title=true&count_private=true" />
     </td>
     <td>
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin5057&text_color=000000&title_color=000000&show_icons=true&bg_color=20,00d5ff,00ff77&layout=compact">
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevindev7&text_color=000000&title_color=000000&show_icons=true&bg_color=20,00d5ff,00ff77&layout=compact">
     </td>
   </tr>
 </table>
