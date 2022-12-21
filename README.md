@@ -8,7 +8,7 @@
 - Student
 
 # About me 📌
-Im from Indonesia, Bandung. i’ve work as bot developer for 6 month and Develop [`K V N Music`] as Music Bot. my full name is Kevin Dharma, 14 years old.
+Im from Indonesia, Bandung. i’ve work as bot developer for 6 month and Develop [`K V N Music`] as Music Bot. Hi, my full name is Kevin D. Wijaya, 14 years old. By the way, i need girl friend for now...
 - start coding in `2021`
 - my first program using [`JavaScript`]
 
